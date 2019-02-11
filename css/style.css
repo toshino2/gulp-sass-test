@@ -1,0 +1,81 @@
+@charset "UTF-8";
+div p {
+  font-weight: bold;
+  font-size: 100px; }
+
+h1 {
+  color: #525252; }
+
+.btn {
+  display: inline-block;
+  border: solid 1px #ccc;
+  background: #999;
+  padding: 1em;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #fff; }
+  .btn a {
+    text-decoration: none;
+    color: #fff; }
+
+table {
+  background: Green; }
+
+/*
+#overview
+The・スタイルガイド
+
+このスタイルガイドは簡単な練習用です。
+*/
+/*
+#colors
+@メインカラー #996600
+@キーカラー #333
+@アクセントカラー #ccc
+
+#styleguide
+ボタンスタイル
+
+.btnです。
+
+```
+<a class="btn" href="#">ボタン</a>
+```
+
+*/
+/*
+#styleguide
+テーブル
+
+.tableです。
+
+```
+<table>
+<tr>
+<th>あああああ</th>
+<td>いいいいいい</td>
+</tr>
+<tr>
+<th>あああああ</th>
+<td>いいいいいい</td>
+</tr>
+</table>
+
+```
+
+*/
+/*
+#styleguide
+古い見出し
+
+これは昔の見出しです。
+
+@todo
+@非推奨
+
+```
+title01
+
+```
+
+*/
